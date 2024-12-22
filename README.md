@@ -1,5 +1,14 @@
 # 10eqstest
 
+## Test information
+### Instructions
+* NVM use to use the node version suited for this project
+* npm install
+* Run the server with "npm run start"
+* Go to localhost:3000/data-load to load the data from the csv
+
+## NX information
+
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
 ✨ Your new, shiny [Nx workspace](https://nx.dev) is ready ✨.
