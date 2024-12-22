@@ -1,6 +1,9 @@
 # 10eqstest
 
 ## Test information
+### Branch "continuation"
+This branch contains the continuation of the test (out of the given time). Check it if you like to.
+
 ### Instructions
 * NVM use to use the node version suited for this project
 * npm install
